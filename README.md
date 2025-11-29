@@ -43,7 +43,7 @@ Task management and focus timer for Obsidian. Plan your day, track time with Pom
 4. Click Install, then Enable
 
 ### Manual Installation
-1. Download the latest release from the [releases page](https://github.com/sayuop/immerse)
+1. Download the latest release from the [releases page](https://github.com/sayuop/immerse/releases)
 2. Extract the files to your vault's `.obsidian/plugins/immerse/` folder
 3. **⚠️ IMPORTANT**: When updating, do NOT replace or delete the existing `data.json` file - this contains all your tasks, settings, and progress!
 4. Reload Obsidian
