@@ -1,7 +1,7 @@
 {
 	"id": "immerse",
 	"name": "Immerse",
-	"version": "v1.1.5",
+	"version": "1.1.5",
 	"minAppVersion": "0.15.0",
 	"description": "A Blitzit-inspired task management and focus timer plugin. Plan your day, track time with Pomodoro technique, and crush your tasks with satisfying checkoffs.",
 	"author": "Sayuop",
