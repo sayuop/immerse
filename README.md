@@ -43,7 +43,7 @@ Task management and focus timer for Obsidian. Plan your day, track time with Pom
 4. Click Install, then Enable
 
 ### Manual Installation
-1. Download the latest release from the [releases page](https://git.cribdev.com/crib/immerse/releases)
+1. Download the latest release from the [releases page](https://github.com/sayuop/immerse)
 2. Extract the files to your vault's `.obsidian/plugins/immerse/` folder
 3. **⚠️ IMPORTANT**: When updating, do NOT replace or delete the existing `data.json` file - this contains all your tasks, settings, and progress!
 4. Reload Obsidian
@@ -54,7 +54,7 @@ Task management and focus timer for Obsidian. Plan your day, track time with Pom
 ### Building from Source
 ```bash
 # Clone the repository
-git clone https://git.cribdev.com/crib/immerse.git
+git clone https://github.com/sayuop/immerse.git
 cd immerse
 
 # Install dependencies
@@ -88,7 +88,7 @@ Contributions welcome! Fork, create a feature branch, and open a PR.
 
 **Dev Setup:**
 ```bash
-git clone https://git.cribdev.com/crib/immerse.git
+git clone https://github.com/sayuop/immerse.git
 cd immerse
 npm install
 npm run dev
@@ -100,7 +100,7 @@ MIT License - see [LICENSE](LICENSE) file.
 
 ---
 
-**Links:** [Repository](https://git.cribdev.com/crib/immerse) • [Issues](https://git.cribdev.com/crib/immerse/issues) • [Blitzit](https://www.blitzit.app/)
+**Links:** [Repository](https://github.com/sayuop/immerse) • [Issues](https://github.com/sayuop/immerse/issues) • [Blitzit](https://www.blitzit.app/)
 
 <p align="center">
   Made with ❤️ for the Obsidian community
